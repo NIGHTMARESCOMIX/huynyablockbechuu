@@ -2,6 +2,6 @@
 
 ![g banner](ale.png)
 
-Секира, вот я сдилялап:
+  Модель секиры для Minecraft Bedrock (Blockbench)
 
 Знает кто-нибудь её?
